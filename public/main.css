@@ -16,6 +16,10 @@ h6 {
   line-height: 1;
 }
 
+html {
+  background-color: #151512;
+}
+
 html,
 body {
   min-height: 100vh;
